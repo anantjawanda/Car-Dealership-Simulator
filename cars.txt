@@ -1,0 +1,25 @@
+1 Toyota     blue   4	SEDAN     500  9.5  false  25000.0
+1 Honda      red    4	SPORTS    450  9.2  false  30000.0
+1 Kia        white  4 	MINIVAN   550  9.7  false  20000.0
+1 BMW        black  4 	SEDAN  	  600  9.6  true   55000.0
+0 Tesla      red    4	SEDAN 	  425  9.1  true   85000.0  30
+1 Chevy      red    4   MINIVAN   475  9.25 false  40000.0
+0 ChevyVolt  green  4	SEDAN 	  375  8.9  true   37000.0  45
+1 Bentley    black  4   SEDAN 	  575  9.8  false  150000.0
+0 NissanLeaf green  4	SEDAN 	  325  8.8  true   32000.0    55
+1 Ford	     white  4   COUPE 	  526  9.1  false  35000.0
+1 Jeep 	     black  4 	SUV	  295  9.4  true   42000.0
+1 Mercedes   grey   4 	SUV 	  621  9.8  true   134000.0
+1 Ferrari    yellow 4   COUPE	  661  8.4  false  332000.0
+1 Audi       red    4   SEDAN	  430  8.9  true   73000.0
+0 Lexus	     orange 4   SEDAN 	  222  9.3  true   53000.0  38
+1 Porsche    black  4 	SEDAN	  410  9.5  true   98000.0
+1 Cadillac   white  4 	SPORTS 	  275  9.3  false  31000.0
+1 Dodge      black  4   COUPE	  800  8.7  true   82000.0
+1 Nissan     grey   4   SPORTS	  545  8.3  false  66000.0
+1 Maserati   navy   4   SEDAN 	  391  9.1  true   70000.0
+1 Infiniti   black  4 	SUV	  377  9.3  true   60000.0
+1 Hyundai    red    4 	SEDAN 	  196  9.3  false  23000.0
+1 Mazda      white  4   COUPE	  250  8.8  false  34000.0
+1 Jaguar     black  4   SEDAN	  345  9.3  true   78000.0
+1 Volkswagen grey   4   SUV	  280  9.5  true   61000.0
